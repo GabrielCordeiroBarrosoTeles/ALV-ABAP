@@ -91,3 +91,7 @@ START-OF-SELECTION.
 ```
 
 Este exemplo simplificado realiza a leitura dos dados da tabela `vbak` e exibe uma lista usando a função `REUSE_ALV_LIST_DISPLAY`. Por favor, adapte conforme suas necessidades específicas.
+
+<p align="center">
+  <img src="Screenshot_3.png" alt="Img">
+</p>
